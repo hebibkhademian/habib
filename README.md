@@ -8,10 +8,8 @@
  
 ### kh 
 
+http://wikipedia.com
 *
-http://git
-
- http://wikipedia.com
  
  
 
