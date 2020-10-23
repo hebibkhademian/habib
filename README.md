@@ -9,7 +9,7 @@
 ### kh 
 
 *
-http://git.io
+http://git
 
  http://wikipedia.com
  
