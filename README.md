@@ -20,3 +20,6 @@ http://wikipedia.com
 <p align="center">
                                                                  
                                                                  
+
+
+![Atom Screenshot](https://raw.githubusercontent.com/hebibkhademian/glayd/master/Screenshot_2017-11-06-14-20-20.png)
